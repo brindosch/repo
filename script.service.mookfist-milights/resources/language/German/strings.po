@@ -130,4 +130,4 @@ msgstr "Verzögerung der Befehle [ms]"
 
 msgctxt "#30029"
 msgid "Enable Logging"
-msgstr "Aktiviere das Logging"
+msgstr "Aktiviere Protokollierung (Debug)"
